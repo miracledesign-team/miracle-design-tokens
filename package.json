@@ -26,6 +26,9 @@
     "build:tokens": "node index.js",
     "build": "npm run clean && npm run build:tokens"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "rimraf": "^5.0.5",
     "style-dictionary": "^5.1.1"
