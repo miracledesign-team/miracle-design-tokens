@@ -1,0 +1,36 @@
+{
+  "name": "@miracledesign/design-tokens",
+  "version": "0.1.0",
+  "description": "Miracle Design Tokens are the single source of truth for core design values, stored in a technology-agnostic JSON format to ensure consistency across Miracle products.",
+  "keywords": [
+    "miracle",
+    "miracle design tokens",
+    "design tokens",
+    "style dictionary",
+    "design system"
+  ],
+  "homepage": "https://github.com/miracledesign-team/miracle-design-tokens#readme",
+  "bugs": {
+    "url": "https://github.com/miracledesign-team/miracle-design-tokens/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miracledesign-team/miracle-design-tokens.git"
+  },
+  "license": "MIT",
+  "author": "Muhamad Arsaludin",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build:tokens": "node index.js",
+    "build": "npm run clean && npm run build:tokens"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.5",
+    "style-dictionary": "^5.1.1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
