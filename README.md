@@ -21,6 +21,9 @@ yarn add @miracledesign/design-tokens
 ```
 
 # Changelog
+## [0.1.1] - 2025-11-08
+### Fixed
+* Fix missing folder /dist folder
 ## [0.1.0] - 2025-11-07
 ### Added
 * Add new Miracle Design tokens for CSS (Global and Alias).
