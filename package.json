@@ -21,6 +21,9 @@
   "author": "Muhamad Arsaludin",
   "main": "index.js",
   "type": "module",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "clean": "rimraf dist",
     "build:tokens": "node index.js",
