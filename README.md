@@ -21,6 +21,10 @@ yarn add @miracledesign/design-tokens
 ```
 
 # Changelog
+## [0.1.2] - 2025-11-08
+### Changed
+* Rename global and alias token category from "size" to "dimension"
+* Adjusted color values
 ## [0.1.1] - 2025-11-07
 ### Fixed
 * Fix missing folder /dist folder

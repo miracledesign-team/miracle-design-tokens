@@ -1,6 +1,6 @@
 {
   "name": "@miracledesign/design-tokens",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Miracle Design Tokens are the single source of truth for core design values, stored in a technology-agnostic JSON format to ensure consistency across Miracle products.",
   "keywords": [
     "miracle",

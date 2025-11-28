@@ -1021,7 +1021,7 @@
       }
     }
   },
-  "size": {
+  "dimension": {
     "0": {
       "$type": "dimension",
       "$value": "0"
