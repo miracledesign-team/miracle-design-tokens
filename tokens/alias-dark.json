@@ -388,7 +388,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamily.outfit}",
-        "fontWeight": "{fontWeight.500}",
+        "fontWeight": "{fontWeight.400}",
         "fontSize": "{fontSize.18}",
         "lineHeight": "{lineHeight.26}"
       }
@@ -424,7 +424,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamily.outfit}",
-        "fontWeight": "{fontWeight.600}",
+        "fontWeight": "{fontWeight.500}",
         "fontSize": "{fontSize.28}",
         "lineHeight": "{fontSize.36}"
       }
