@@ -21,6 +21,9 @@ yarn add @miracledesign/design-tokens
 ```
 
 # Changelog
+## [0.1.4] - 2025-11-30
+### Changed
+* Tunning alias token color
 ## [0.1.3] - 2025-11-28
 ### Changed
 * Change font weight body-1 from 500 to 400
