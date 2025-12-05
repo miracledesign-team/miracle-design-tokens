@@ -21,6 +21,9 @@ yarn add @miracledesign/design-tokens
 ```
 
 # Changelog
+## [0.1.5] - 2025-12-06
+### Changed
+* Tunning global and alias token color
 ## [0.1.4] - 2025-11-30
 ### Changed
 * Tunning alias token color
