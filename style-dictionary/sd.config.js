@@ -98,7 +98,7 @@ export default function generateStyleDictionaryConfig(
             format: "cssAliasFormat",
             options: {
               fileHeader: "miracleFileHeader",
-              outputReferences: true,
+              outputReferences: false,
               usesDtcg: true
             }
           }

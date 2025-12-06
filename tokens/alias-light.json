@@ -25,7 +25,7 @@
         "strong": {
           "default": {
             "$type": "color",
-            "$value": "{color.neutral.100}"
+            "$value": "{color.neutral.200}"
           },
           "inv": {
             "$type": "color",
