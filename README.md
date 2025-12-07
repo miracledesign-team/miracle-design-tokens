@@ -21,6 +21,9 @@ yarn add @miracledesign/design-tokens
 ```
 
 # Changelog
+## [0.1.7] - 2025-12-07
+### Changed
+* Tunning color background and border alias token
 ## [0.1.6] - 2025-12-06
 ### Changed
 * Change outputReferences format alias token 
